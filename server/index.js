@@ -6,5 +6,5 @@ app.listen("4500",()=>{
 })
 
 app.get("/",async(req,res)=>{
-    res.send("Running fine and cool as a cucombers")
+    res.send("Running fine and cool you fools")
 })
