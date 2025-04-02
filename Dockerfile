@@ -4,7 +4,7 @@ WORKDIR  /server
 
 COPY  packahe*.json ./
 
-RUN  npm intall 
+RUN  npm install 
 
 COPY . .
 
